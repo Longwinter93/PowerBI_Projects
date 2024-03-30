@@ -1,7 +1,4 @@
 # PowerBI_Project_4_Sales_and_Profit
-![SalesAndProfit](https://github.com/Lunczer93/PowerBI_Project_4_Sales_and_Profit/assets/65483365/7feb66d2-dd75-448b-9637-e9257ef15c6e)
-
-
 # INTRODUCTION
 
 The request was submitted to analyze Sales and Profit of Company in 2014 and 2017 years regarding products, regions, segments, and ship mode.

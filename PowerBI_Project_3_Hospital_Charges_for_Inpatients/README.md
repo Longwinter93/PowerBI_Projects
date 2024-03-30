@@ -1,6 +1,4 @@
 # PowerBI_Project_3_Hospital_Charges_for_Inpatients
-![hospital](https://github.com/Lunczer93/PowerBI_Project_3_Hospital_Charges_for_Inpatients/assets/65483365/48d5fc50-28b4-44a2-8bb3-8e183fd85b9e)
-
 # INTRODUCTION
 
 The request was submitted to analyze the hospital charges for inpatients in USA by insurance companies.
