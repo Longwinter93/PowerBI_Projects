@@ -1,6 +1,4 @@
 # PowerBI_Project_2_Procurement_Card_Transactions
-![procurement](https://github.com/Lunczer93/PowerBI_Project_2_Procurement_Card_Transactions/assets/65483365/b6a38386-7851-4655-80ed-aadb14857eb8)
-
 # INTRODUCTION
 
 The request was submitted to analyze the Card Payment in the Procurement Department in 2001 and 2014 years.

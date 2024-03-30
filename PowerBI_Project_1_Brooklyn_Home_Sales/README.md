@@ -1,7 +1,4 @@
 # PowerBI_Project_1_Brooklyn_Home_Sales
-![Brooklyn](https://github.com/Lunczer93/PowerBI_Project_1_Brooklyn_Home_Sales/assets/65483365/a7bf8c99-1b5e-4f25-aa31-9b7fc49492a7)
-
-
 # INTRODUCTION
 
 I was asked to analyze and visualize data regarding Home Sales in Brooklyn in 2003 and 2017 years. 
